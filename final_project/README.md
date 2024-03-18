@@ -1,6 +1,6 @@
 # # IBM Full-Stack Developer Certificate Course: Developing Back-End Apps with Node.js and Express - Final Project
 
-General Endpoints - No login required
+General Endpoints
 GET /
 Retrieves a full list of my favorite book as JSON.
 
